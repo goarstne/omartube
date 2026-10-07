@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=OmarTube Controls
+Comment=Adjust YouTube window transparency
+Exec=/usr/share/omarchy/bin/omarchy-shell shell toggle goarstne.omartube "{}"
+Icon=youtube
+Terminal=false
+Categories=Settings;
+Keywords=YouTube;Transparency;Opacity;Omarchy;

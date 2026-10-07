@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "goarstne.omartube",
+  "name": "OmarTube",
+  "version": "0.2.0",
+  "author": "goarstne",
+  "description": "A floating YouTube window with live transparency controls and a resizable fullscreen player.",
+  "kinds": ["service", "bar-widget", "panel"],
+  "entryPoints": {
+    "service": "Service.qml",
+    "barWidget": "BarWidget.qml",
+    "panel": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "OmarTube",
+    "description": "Adjust YouTube transparency",
+    "category": "Media",
+    "allowMultiple": false
+  }
+}

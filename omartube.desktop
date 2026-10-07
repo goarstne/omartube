@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=OmarTube
+Comment=Floating YouTube player for Omarchy
+Exec=/usr/share/omarchy/bin/omarchy-launch-webapp https://youtube.com/
+Icon=youtube
+Terminal=false
+Categories=AudioVideo;Video;
+Keywords=YouTube;Video;Player;Omarchy;
+StartupNotify=true
